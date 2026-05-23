@@ -5,7 +5,7 @@
 ### Senior iOS Lead Engineer  ·  11+ Years  ·  Swift · SwiftUI · IoT · Energy · Healthcare
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anilmakhija.github.io-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://anilmakhija.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anilmakhija-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilmakhija)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anilmakhija-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilmakhija1/)
 [![App Store](https://img.shields.io/badge/App_Store-Published_Apps-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/developer/anil-makhija)
 [![Medium](https://img.shields.io/badge/Medium-@makhija61-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@makhija61)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Visa_Sponsorship_Welcome-16A34A?style=for-the-badge)](mailto:makhija61@gmail.com)
