@@ -124,7 +124,7 @@ I'm actively looking for **Senior iOS / iOS Lead** roles internationally.
 
 [![Email](https://img.shields.io/badge/Email-makhija61@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:makhija61@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-2563EB?style=for-the-badge&logo=safari&logoColor=white)](https://anilmakhija.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilmakhija)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilmakhija1/)
 
 </div>
 
